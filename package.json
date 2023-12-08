@@ -1,0 +1,13 @@
+{
+	"name": "aoc-2023",
+	"version": "1.0.0",
+	"license": "MIT",
+	"dependencies": {
+		"node": "^21.2.0",
+		"tsx": "^4.6.2"
+	},
+  "devDependencies": {
+		"@types/node": "^20.10.3"
+
+  }
+}
